@@ -1,0 +1,16 @@
+/* Will be compiled down to a single stylesheet with your sass files */
+html{
+	background-color: white;
+}
+.clip:hover{
+	outline: red solid 2px;
+}
+.note{
+	color: white;
+	padding: 3px;
+	z-index: 999;
+}
+
+.note:hover, .note:focus{
+	outline: blue solid 2px;
+}

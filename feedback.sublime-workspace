@@ -1,0 +1,1144 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"image",
+				"imageUrl"
+			],
+			[
+				"in",
+				"innerHeight"
+			],
+			[
+				"get",
+				"getContext"
+			],
+			[
+				"fin",
+				"finalCanvas"
+			],
+			[
+				"of",
+				"offsetY"
+			],
+			[
+				"ini",
+				"initialY"
+			],
+			[
+				"off",
+				"offsetX"
+			],
+			[
+				"exibeErro",
+				"exibeErroCalculo"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"valida",
+				"validationMethods"
+			],
+			[
+				"read",
+				"readonly"
+			],
+			[
+				"data",
+				"dataFimVigencia"
+			],
+			[
+				"proposta",
+				"propostaGeral"
+			],
+			[
+				"fim",
+				"fimVigenciaDia"
+			],
+			[
+				"resuta",
+				"resultados"
+			],
+			[
+				"cpf",
+				"cpfstring"
+			],
+			[
+				"SEGURADO",
+				"SEGURADO_NOME"
+			],
+			[
+				"string",
+				"stringatual"
+			],
+			[
+				"Con",
+				"Consistencia"
+			],
+			[
+				"dia",
+				"dia_atual"
+			],
+			[
+				"clas",
+				"classes"
+			],
+			[
+				"ajax",
+				"ajax	Google AJAX Libraries: Dojo"
+			],
+			[
+				"Captcha",
+				"CaptchaRefresh"
+			],
+			[
+				"ui",
+				"uiGet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 2638,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/app.js",
+			"settings":
+			{
+				"buffer_size": 1843,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/styles/main.css",
+			"settings":
+			{
+				"buffer_size": 105,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"bootstrap",
+				"Snippet: Bootstrap success alert"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"duplica",
+				"File: Duplicate"
+			],
+			[
+				"duplicate",
+				"File: Duplicate"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"input ext",
+				"Snippet: input - text"
+			],
+			[
+				"input t",
+				"Snippet: input - text"
+			],
+			[
+				"git: gui",
+				"Git: Gui"
+			],
+			[
+				"git",
+				"Git: Add Current File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"zencode",
+				"Zen Coding: Wrap zen as you type"
+			],
+			[
+				"codein",
+				"Code Folding: Unfold All"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"zen",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"zenco",
+				"Zen Coding: Zen as you type"
+			],
+			[
+				"tags",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"tag",
+				"Tag: Remove All Attributes From Tags in Document"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"h",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"sni",
+				"Snippet: Interface"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/philipe.santos/GitHub/studies/app/index.html",
+		"/C/Users/philipe.santos/GitHub/studies/components/threejs/examples/obj/blenderscene/scene.Cube.js",
+		"/C/Users/philipe.santos/GitHub/three.js/index.html",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/mylibs/Consistencia.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/classes/Proposta.Class.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5720/js/proposta-dados-cadastrais.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/6190/js/proposta-dados-cadastrais.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/6203/js/proposta-dados-cadastrais.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5118/proposta-forma-pagamento.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/propostaGeral.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/main.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/index.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5118/js/proposta-dados-cadastrais.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5118/proposta-dados-cadastrais.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5720/proposta-dados-cadastrais.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/mylibs/Navegacao.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/cotacao-preco.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/calculo/lightbox-affinity.html",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/lightbox-affinity.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/requests/Request.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/mylibs/Affinity.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/affinity.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/mylibs/Calculo.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/css/main.css",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/calculo/lightbox-recalculo.html",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/lightbox-recalculo.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/lightbox-erro.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/calculo/lightbox-erro.html",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/sua-cotacao.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/lightbox-coberturas.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/plugins.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/6190/proposta-dados-cadastrais.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/dados-condutor.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/dominios/PROPOSTA_TIPO_DOCUMENTO.html",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5720/js/proposta-dados-veiculo.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/script.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5720/proposta-forma-pagamento.php",
+		"//DEVSANTANDER2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/script.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5720/proposta-dados-veiculo.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5720/css/proposta_5720.css",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/classes/Calculo.Class.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/css/main2.css",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/cache/Calculo.Class.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/calculo/cotacao-preco.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/dados-segurado.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5720/js/proposta-endereco.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5720/proposta-endereco.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5720/js/proposta-dados-renovacao.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/simulador.sublime-workspace",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5720/js/proposta-sobre-seguro.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/utilizacao-veiculo.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/institucional/seguradoras-parceiras.html",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/calculo/utilizacao-bonus.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5720/proposta-sobre-seguro.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5720/proposta-dados-renovacao.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/classes/fixos.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/config.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/calculo/sua-cotacao.html",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/calculo/condutores-eventuais.html",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/condutores-eventuais.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/mylibs/Condutores.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5118/proposta-endereco.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/5118/js/proposta-endereco.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/mylibs/Cep.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/classes/Voucher.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/cotacao-preco_2.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/dados-veiculo.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/mylibs/Captcha.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/cache/MulticalculoParalelo.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/cache/MulticalculoParalelo_COM.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/cache/MulticalculoParalelo_WEBSERVICE.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/cache/testaclasse.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/simulador.sublime-project",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/6203/js/proposta-endereco.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/6190/js/proposta-endereco.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/especificos/utilizacao-bonus.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/classes/Cep.Class.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/cache/iCalculo.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/6203/proposta-dados-cadastrais.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/6203/js/proposta-forma-pagamento.js",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/classes/ext/securimage/audio/16.wav",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/proposta/6203/proposta-forma-pagamento.php",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/paginas/calculo/dominios/CENTRAL_MONITORAMENTO.php",
+		"/C/Users/speedy/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/speedy/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings",
+		"/C/Users/speedy/AppData/Roaming/Sublime Text 2/Packages/User/zen-coding.sublime-settings",
+		"/C/Users/speedy/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/Default.sublime-keymap",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/js/plugins.min.js",
+		"/C/Users/speedy/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Default (Windows).sublime-keymap",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/404.html",
+		"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/classes/ext/securimage/examples/securimage_show_example2.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"image",
+			"console",
+			"saveHighlight",
+			"X",
+			"feedback.",
+			"fancytest",
+			"fancy",
+			"numdocumento",
+			"documento",
+			"readonly",
+			"calcular",
+			"outline",
+			"celular9Digitos",
+			"PROPOSTA_TIPOFONE",
+			"rne",
+			"condicoes",
+			"console.",
+			"retornos[i]",
+			"CONCESSIONARIA",
+			"FONE",
+			"argument",
+			"id=\"div_DADOS_CONCESSIONARIA\"",
+			"PROPOSTA_FONE_CONCESSIONARIA",
+			"PROPOSTA_DDD_CONCESSIONARIA",
+			"PROPOSTA_NM_CONCESSIONARIA",
+			"comodato",
+			"montaRetornoSeguradora",
+			"recuperar",
+			"seguradora",
+			"PROPOSTA_DDD_CONCESSIONARIA",
+			"ufPlacaValue",
+			"UF_PLACA_PERFILPOL",
+			"data",
+			"condicoes",
+			"cpf",
+			"consitencia",
+			"fixLineHeightProposta",
+			"PROPOSTA_DT_NOTAFISCAL",
+			"propostaGeral",
+			" value=\"\"",
+			"></la",
+			"PROPOSTA_CNPJ_CONCESSIONARIA",
+			"Telefone",
+			"type=\"text\"",
+			"<fieldset>",
+			"concessionária",
+			"meio",
+			"apolice",
+			"readonly",
+			"condicoe",
+			"PROPOSTA_CI",
+			"console.",
+			"this",
+			"PERFIL_SEGURADO_CONDUTOR_PRINCIPAL",
+			"click.styledButton",
+			"$target",
+			".click",
+			".on",
+			"on",
+			"avancar",
+			"navegar",
+			"animaNavegacao",
+			"abrir",
+			"abre",
+			".load",
+			"scrip",
+			"condutores-eventuais.js",
+			"buttonStyleToggle",
+			".trigger(\"clic",
+			".trigger('click",
+			"CONDUTOR-HABITUAL-S",
+			"consol",
+			"check",
+			"CONDUTOR-HABITUAL-S",
+			".check()",
+			"trigger('click', true)",
+			"add",
+			"binds",
+			"init",
+			"console",
+			"prepend",
+			"resultados",
+			"ultimocalcu",
+			"carreg",
+			"erros",
+			"calcularsegu",
+			"consol",
+			"$button",
+			"console.",
+			"val",
+			"SEGURADO_SEXO-F",
+			"macho",
+			"click()",
+			"on",
+			"SEGURADO_SEXO",
+			"segurado_sexo",
+			"recuperar",
+			"preve",
+			"preventde",
+			"switchCoberturas",
+			"coberturas",
+			"44",
+			"seguradora",
+			"segurado",
+			"lista",
+			"segurador",
+			"executarCondicoes",
+			"avancar",
+			"abrir",
+			"window.calc.pacote_selecionado",
+			"pacote",
+			"trigger('click',true)",
+			"tri",
+			"trigge",
+			"trigger('click',true)",
+			"comparar",
+			"<a class=\"button textbtn-medium-return-down\">Comparar</a>",
+			"complete",
+			".complete",
+			".comple",
+			"captcha",
+			"ENDERECO",
+			"PROPOSTA_ENDERECO_COBRANCA",
+			"#",
+			"CEP_RESIDENCIA",
+			"RESIDENCIA",
+			"valores.tx",
+			", "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"click",
+			".delay(100).check()",
+			"check()"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 2638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1280,
+								1280
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 248.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/scripts/app.js",
+					"settings":
+					{
+						"buffer_size": 1843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1707,
+								1707
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/styles/main.css",
+					"settings":
+					{
+						"buffer_size": 105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 263.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"app/styles/main.css"
+			],
+			[
+				"consistencia",
+				"js/mylibs/Consistencia.js"
+			],
+			[
+				"request",
+				"requests/Request.php"
+			],
+			[
+				"proposta",
+				"classes/Proposta.Class.php"
+			],
+			[
+				"cadastrais",
+				"paginas/proposta/5118/proposta-dados-cadastrais.php"
+			],
+			[
+				"propostagera",
+				"paginas/proposta/propostaGeral.js"
+			],
+			[
+				"5118",
+				"paginas/proposta/5118/proposta-forma-pagamento.php"
+			],
+			[
+				"navega",
+				"js/mylibs/Navegacao.js"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"5118cadas",
+				"paginas/proposta/5118/js/proposta-dados-cadastrais.js"
+			],
+			[
+				"5118cadass",
+				"paginas/proposta/5118/proposta-dados-cadastrais.php"
+			],
+			[
+				"5720cadastra",
+				"paginas/proposta/5720/js/proposta-dados-cadastrais.js"
+			],
+			[
+				"5720cadastrai",
+				"paginas/proposta/5720/proposta-dados-cadastrais.php"
+			],
+			[
+				"cotacao-preo",
+				"js/especificos/cotacao-preco.js"
+			],
+			[
+				"light",
+				"paginas/calculo/lightbox-affinity.html"
+			],
+			[
+				"affini",
+				"js/especificos/affinity.js"
+			],
+			[
+				"reque",
+				"requests/Request.php"
+			],
+			[
+				"cotacao",
+				"js/especificos/cotacao-preco.js"
+			],
+			[
+				"lightbox",
+				"js/especificos/lightbox-coberturas.js"
+			],
+			[
+				"sua",
+				"js/especificos/sua-cotacao.js"
+			],
+			[
+				"calculo.",
+				"js/mylibs/Calculo.js"
+			],
+			[
+				"main.css",
+				"css/main.css"
+			],
+			[
+				"main.cs",
+				"css/main.css"
+			],
+			[
+				"dados-condu",
+				"js/especificos/dados-condutor.js"
+			],
+			[
+				"plugins",
+				"js/plugins.js"
+			],
+			[
+				"consis",
+				"js/mylibs/Consistencia.js"
+			],
+			[
+				"tipodocu",
+				"paginas/dominios/PROPOSTA_TIPO_DOCUMENTO.html"
+			],
+			[
+				"6190cadas",
+				"paginas/proposta/6190/js/proposta-dados-cadastrais.js"
+			],
+			[
+				"propostage",
+				"paginas/proposta/propostaGeral.js"
+			],
+			[
+				"5720cadas",
+				"paginas/proposta/5720/js/proposta-dados-cadastrais.js"
+			],
+			[
+				"5720pagamento",
+				"paginas/proposta/5720/proposta-forma-pagamento.php"
+			],
+			[
+				"5720veicu",
+				"paginas/proposta/5720/js/proposta-dados-veiculo.js"
+			],
+			[
+				"propostageral",
+				"paginas/proposta/propostaGeral.js"
+			],
+			[
+				"5720",
+				"paginas/proposta/5720/js/proposta-dados-veiculo.js"
+			],
+			[
+				"script",
+				"js/script.js"
+			],
+			[
+				".css",
+				"css/main2.css"
+			],
+			[
+				"pagamento",
+				"paginas/proposta/5720/proposta-forma-pagamento.php"
+			],
+			[
+				"cadastraisjs",
+				"paginas/proposta/5720/js/proposta-dados-cadastrais.js"
+			],
+			[
+				"calculo.class",
+				"cache/Calculo.Class.php"
+			],
+			[
+				"calculo",
+				"js/mylibs/Calculo.js"
+			],
+			[
+				"calculo.clas",
+				"cache/Calculo.Class.php"
+			],
+			[
+				"requ",
+				"requests/Request.php"
+			],
+			[
+				"naveg",
+				"js/mylibs/Navegacao.js"
+			],
+			[
+				"consisten",
+				"js/mylibs/Consistencia.js"
+			],
+			[
+				"dad",
+				"js/especificos/dados-segurado.js"
+			],
+			[
+				"conis",
+				"js/mylibs/Consistencia.js"
+			],
+			[
+				"main2",
+				"css/main2.css"
+			],
+			[
+				"index.",
+				"index.php"
+			],
+			[
+				"proposta-enderec",
+				"paginas/proposta/5720/proposta-endereco.php"
+			],
+			[
+				"proposta-endere",
+				"paginas/proposta/5720/proposta-endereco.php"
+			],
+			[
+				"dados-cadastras",
+				"paginas/proposta/5720/proposta-dados-cadastrais.php"
+			],
+			[
+				"dados-cadastrais",
+				"paginas/proposta/5720/js/proposta-dados-cadastrais.js"
+			],
+			[
+				"utili",
+				"js/especificos/utilizacao-veiculo.js"
+			],
+			[
+				"cncist",
+				"paginas/institucional/seguradoras-parceiras.html"
+			],
+			[
+				"proposta-dados-",
+				"paginas/proposta/5118/js/proposta-dados-cadastrais.js"
+			],
+			[
+				"calcu",
+				"cache/Calculo.Class.php"
+			],
+			[
+				"proposta-dados-renova",
+				"paginas/proposta/5720/proposta-dados-renovacao.php"
+			],
+			[
+				"proposta-dados-renovacao",
+				"paginas/proposta/5720/js/proposta-dados-renovacao.js"
+			],
+			[
+				"utiliza",
+				"paginas/calculo/utilizacao-bonus.php"
+			],
+			[
+				"proposta-dados-veiculo",
+				"paginas/proposta/5720/js/proposta-dados-veiculo.js"
+			],
+			[
+				"",
+				"config.php"
+			],
+			[
+				"scrip",
+				"js/script.js"
+			],
+			[
+				"sua-co",
+				"paginas/calculo/sua-cotacao.html"
+			],
+			[
+				"dados-cond",
+				"js/especificos/dados-condutor.js"
+			],
+			[
+				"na",
+				"js/mylibs/Navegacao.js"
+			],
+			[
+				"plugin",
+				"js/plugins.js"
+			],
+			[
+				"cond",
+				"js/especificos/dados-condutor.js"
+			],
+			[
+				"pl",
+				"js/plugins.js"
+			],
+			[
+				"scri",
+				"js/script.js"
+			],
+			[
+				"condutores",
+				"js/especificos/condutores-eventuais.js"
+			],
+			[
+				"condutres",
+				"paginas/calculo/condutores-eventuais.html"
+			],
+			[
+				"condu",
+				"js/mylibs/Condutores.js"
+			],
+			[
+				"utilizaca",
+				"js/especificos/utilizacao-veiculo.js"
+			],
+			[
+				"propostae",
+				"paginas/proposta/5118/js/proposta-endereco.js"
+			],
+			[
+				"cep",
+				"js/mylibs/Cep.js"
+			],
+			[
+				"vouch",
+				"classes/Voucher.php"
+			],
+			[
+				"calculo-p",
+				"paginas/calculo/cotacao-preco.php"
+			],
+			[
+				"segurado",
+				"js/especificos/dados-segurado.js"
+			],
+			[
+				"cotaca",
+				"js/especificos/cotacao-preco.js"
+			],
+			[
+				"cotacao-preco",
+				"paginas/calculo/cotacao-preco.php"
+			],
+			[
+				"dados-ve",
+				"js/especificos/dados-veiculo.js"
+			],
+			[
+				"sua-cota",
+				"js/especificos/sua-cotacao.js"
+			],
+			[
+				"cal",
+				"js/mylibs/Calculo.js"
+			],
+			[
+				"captcha",
+				"js/mylibs/Captcha.js"
+			],
+			[
+				"nave",
+				"js/mylibs/Navegacao.js"
+			],
+			[
+				"utilizacao-ve",
+				"js/especificos/utilizacao-veiculo.js"
+			],
+			[
+				"cotacao-pre",
+				"js/especificos/cotacao-preco.js"
+			],
+			[
+				"request.pp",
+				"requests/Request.php"
+			],
+			[
+				"calcul",
+				"js/mylibs/Calculo.js"
+			],
+			[
+				"utilizacao",
+				"js/especificos/utilizacao-veiculo.js"
+			],
+			[
+				"proposta-endereco.js",
+				"paginas/proposta/6203/js/proposta-endereco.js"
+			],
+			[
+				"proposta-endereco",
+				"paginas/proposta/5720/js/proposta-endereco.js"
+			],
+			[
+				"proposta-ende",
+				"paginas/proposta/6190/js/proposta-endereco.js"
+			],
+			[
+				"cotacao-p",
+				"paginas/calculo/cotacao-preco.php"
+			],
+			[
+				"cep.js",
+				"js/mylibs/Cep.js"
+			],
+			[
+				"reques",
+				"requests/Request.php"
+			],
+			[
+				"veicu",
+				"js/especificos/dados-veiculo.js"
+			],
+			[
+				"consistenci",
+				"js/mylibs/Consistencia.js"
+			],
+			[
+				"cadastrais.js",
+				"paginas/proposta/6203/js/proposta-dados-cadastrais.js"
+			],
+			[
+				"uzi",
+				"js/especificos/utilizacao-veiculo.js"
+			],
+			[
+				"dados-se",
+				"js/especificos/dados-segurado.js"
+			],
+			[
+				"calc",
+				"js/mylibs/Calculo.js"
+			],
+			[
+				"sua-cotacao",
+				"paginas/calculo/sua-cotacao.html"
+			],
+			[
+				"sua-cotaca",
+				"js/especificos/sua-cotacao.js"
+			],
+			[
+				"main.p",
+				"main.php"
+			],
+			[
+				"main.php",
+				"paginas/calculo/dominios/CENTRAL_MONITORAMENTO.php"
+			],
+			[
+				"lightbox-re",
+				"js/especificos/lightbox-recalculo.js"
+			],
+			[
+				"suac",
+				"paginas/calculo/sua-cotacao.html"
+			],
+			[
+				"calculo.js",
+				"js/mylibs/Calculo.js"
+			],
+			[
+				"css",
+				"classes/ext/securimage/examples/securimage_show_example2.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"//DEVSANTANDER2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/simulador.sublime-project"
+			],
+			[
+				"ra",
+				"/C/Users/philipe.santos/Documents/IISExpress/rodriguesfaria/wp-content/themes/blanktemplate/rfaria.sublime-project"
+			],
+			[
+				"rfa",
+				"/C/Users/philipe.santos/Documents/IISExpress/rodriguesfaria/wp-content/themes/blanktemplate/rfaria.sublime-project"
+			],
+			[
+				"v1",
+				"//devsantander/MCS/Sistemas_Manager_VendaDireta/Prod319/Site/simulador_v1.sublime-project"
+			],
+			[
+				"haru",
+				"/C/inetpub/wwwroot/haru/haru.sublime-project"
+			],
+			[
+				"qr",
+				"//PHILIPE-HP/Users/Philipe/projetos/QrWebcamJS/qrwebcam.sublime-project"
+			],
+			[
+				"bsweb",
+				"/C/inetpub/wwwroot/bsweb/bsweb.sublime-project"
+			],
+			[
+				"simu",
+				"//devsantander2/Felix_Sistemas_Manager_VendaDireta/Prod319/Site/simulador.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true
+}
